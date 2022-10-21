@@ -1,6 +1,6 @@
 # loop2step7
 # cyberusa
-*An implementation of loop2steo7 clone with html and css*
+*An implementation of loop2step7 clone with html and css*
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Features
